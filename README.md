@@ -1,6 +1,7 @@
-# Developed by:Subashini S
-# Register No:212222240106
+
 # Ex.No: 01A PLOT A TIME SERIES DATA
+## Developed by:Subashini S
+## Register No:212222240106
 ###  Date: 
 
 # AIM:
