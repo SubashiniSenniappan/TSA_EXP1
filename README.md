@@ -5,8 +5,7 @@
 ###  Date: 
 
 # AIM:
-To Develop a python program to Plot a time series data (population/ market price of a commodity
-/temperature.
+To Develop a python program to Plot a time series data based on weather classification.
 # ALGORITHM:
 ```
 1.Import Packages: Start by importing pandas and matplotlib.pyplot.
